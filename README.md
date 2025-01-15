@@ -47,8 +47,6 @@ Sou apaixonado por criar experiências sonoras que conectam histórias e emoçõ
 
 ---
 
-## Minha Foto  
-![Felipe Oliveira](https://raw.githubusercontent.com/SeuUsuario/SeuRepositorio/main/sua_foto.jpg)  
 
 Se você precisa de áudio incrível para o seu projeto, entre em contato!  
 ![Imagem do WhatsApp de 2024-09-16 à(s) 22 51 26_93d1d8cd](https://github.com/user-attachments/assets/9a004732-8a88-443c-8178-fa932626d506)
