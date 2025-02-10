@@ -90,7 +90,7 @@ Trilha original composta para a minissérie *Confissões de um Padre* do Canal *
 Se você precisa de áudio incrível para o seu projeto, entre em contato!  
 ![Imagem do WhatsApp de 2024-09-16 à(s) 22 51 26_93d1d8cd](https://github.com/user-attachments/assets/9a004732-8a88-443c-8178-fa932626d506)
 
-##Minha Tragetória:
+##Minha Trajetória:
 
 Sou guitarrista e violonista, técnico de áudio e produtor musical com quase 20 anos de experiência na criação de trilhas sonoras, jingles, efeitos sonoros e arranjos. Meu trabalho abrange diversas áreas, incluindo campanhas publicitárias, trilhas para canais do YouTube, peças de teatro, games e cinema, além da produção de artistas e bandas. Atualmente, estou cursando graduação em Design Musical, aprimorando meus conhecimentos para oferecer soluções sonoras ainda mais inovadoras.
 
