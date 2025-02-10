@@ -22,8 +22,10 @@ Sou apaixonado por criar experiências sonoras que conectam histórias e emoçõ
 ## 🎧 Amostras de Trabalhos  
 
 ### 🎮 **Sistema de Áudio Interativo – FMOD**  
-**Projeto:** Maré: A Jornada dos Ciclos  
-- Desenvolvimento de um sistema completo em FMOD, com design sonoro e música interativa para maior imersão.  
+**Projeto:** Jogo Maré: A Jornada dos Ciclos  
+- Desenvolvimento de um sistema completo em FMOD, com design sonoro e música interativa para maior imersão no jogo. 
+Esse sistema cria possibilidades na imersão do áudio com a jogabilidade do jogo. Em combinação com o programador do jogo, isso faz com que o jogador se sinta parte do que está jogando e tenha uma experiência muito mais real. Além disso esse sistema permite facilitar a programação de áudio visto que gera códigos para o programador implementar em seus jogos, seja pelo sistema Unity ou qualquer outro sistema profisional de programação de jogos.
+
 [![Maré: A Jornada dos Ciclos](https://img.youtube.com/vi/XBAT0XvJ-LY/hqdefault.jpg)](https://www.youtube.com/watch?v=XBAT0XvJ-LY&t=129s)  
 
 ### 🎤 **Produção Musical**  
