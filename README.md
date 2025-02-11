@@ -47,7 +47,7 @@ Esse sistema cria possibilidades na imersão do áudio com a jogabilidade do jog
 
 
 
-**New Hope Struggle - Felipe Oliveira/ Rafa Tronxo
+**New Hope Struggle - Felipe Oliveira e Rafa Tronxo
 Canção criada com parceiro Rafael Tronxo para um redesign em cima da cena da morte de Biorn Iron Side na série Vikigs.
 
 # 🎬 Redesign – Morte de Bjorn Ironside (*Vikings*)  
