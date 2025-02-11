@@ -49,12 +49,12 @@ Esse sistema cria possibilidades na imersão do áudio com a jogabilidade do jog
 
 
 
-# 🎬 Redesign – Morte de Bjorn Ironside (*Vikings*)
+# 🎬 Redesign – Morte de Biorn Ironside (*Vikings*)
 
 **New Hope Struggle** - Felipe Oliveira e Rafa Tronxo
 Canção criada com parceiro Rafael Tronxo para um redesign em cima da cena da morte de Biorn Iron Side na série Vikigs.
 
-Trabalho de redesign sonoro sobre a icônica cena da morte de Bjorn Ironside na série *Vikings*.  
+Trabalho de redesign sonoro sobre a icônica cena da morte de Biorn Ironside na série *Vikings*.  
 
 ▶️ **Assista no YouTube**:  
 [![Thumbnail do Vídeo](https://img.youtube.com/vi/7uxZkcndgQ4/maxresdefault.jpg)](https://youtu.be/7uxZkcndgQ4)
