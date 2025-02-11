@@ -34,12 +34,12 @@ Esse sistema cria possibilidades na imersão do áudio com a jogabilidade do jog
 [![Lies – Worta](https://img.youtube.com/vi/-6Rm7965x5Q/hqdefault.jpg)](https://www.youtube.com/watch?v=-6Rm7965x5Q)
 
 
-**Música:** Amor sem Razão – Banda 100 Nós  
+# **Música:** Amor sem Razão – Banda 100 Nós  
 - Produção musical com foco na identidade artística da banda.  
 [![Amor sem Razão – 100 Nós](https://img.youtube.com/vi/gUrmOsACTss/hqdefault.jpg)](https://www.youtube.com/watch?v=gUrmOsACTss)
 
 
-🎶 **Hino à Rainha da Paz**: Ei amigos, vem pra cá! - Música composta para ser hino da Ong Rainha da Paz em Santana do Parnaíba.
+# 🎶 **Hino à Rainha da Paz**: Ei amigos, vem pra cá! - Música composta para ser hino da Ong Rainha da Paz em Santana do Parnaíba.
 
 ![Rainha da Paz](https://github.com/user-attachments/assets/03dac1da-f2c7-479e-a6d0-4cbc524e01e3)
 
@@ -47,7 +47,9 @@ Esse sistema cria possibilidades na imersão do áudio com a jogabilidade do jog
 
 
 
-# 🎬 Redesign – Morte de Bjorn Ironside (*Vikings*)  
+
+
+# 🎬 Redesign – Morte de Bjorn Ironside (*Vikings*)
 
 **New Hope Struggle** - Felipe Oliveira e Rafa Tronxo
 Canção criada com parceiro Rafael Tronxo para um redesign em cima da cena da morte de Biorn Iron Side na série Vikigs.
