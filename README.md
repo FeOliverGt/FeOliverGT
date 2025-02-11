@@ -39,7 +39,9 @@ Esse sistema cria possibilidades na imersão do áudio com a jogabilidade do jog
 [![Amor sem Razão – 100 Nós](https://img.youtube.com/vi/gUrmOsACTss/hqdefault.jpg)](https://www.youtube.com/watch?v=gUrmOsACTss)
 
 
-# 🎶 **Hino à Rainha da Paz**: Ei amigos, vem pra cá! - Música composta para ser hino da Ong Rainha da Paz em Santana do Parnaíba.
+# 🎶 **Hino à Rainha da Paz**: Ei amigos, vem pra cá! 
+
+- Música composta em parceria com Márcia Bortolanza para ser hino da Ong Rainha da Paz em Santana de Parnaíba.
 
 ![Rainha da Paz](https://github.com/user-attachments/assets/03dac1da-f2c7-479e-a6d0-4cbc524e01e3)
 
@@ -52,9 +54,9 @@ Esse sistema cria possibilidades na imersão do áudio com a jogabilidade do jog
 # 🎬 Redesign – Morte de Biorn Ironside (*Vikings*)
 
 **New Hope Struggle** - Felipe Oliveira e Rafa Tronxo
-Canção criada com parceiro Rafael Tronxo para um redesign em cima da cena da morte de Biorn Iron Side na série Vikigs.
+Canção criada com parceria de Rafael Tronxo, para um redesign em cima da cena da morte de Biorn Iron Side na série Vikigs.
 
-Trabalho de redesign sonoro sobre a icônica cena da morte de Biorn Ironside na série *Vikings*.  
+- Trabalho de redesign sonoro sobre a icônica cena da morte de Biorn Ironside na série *Vikings*.  
 
 ▶️ **Assista no YouTube**:  
 [![Thumbnail do Vídeo](https://img.youtube.com/vi/7uxZkcndgQ4/maxresdefault.jpg)](https://youtu.be/7uxZkcndgQ4)
@@ -63,7 +65,7 @@ Trabalho de redesign sonoro sobre a icônica cena da morte de Biorn Ironside na 
 
 # 🎼 Trilha de Abertura – Minissérie *Confissões de um Padre*  
 
-Trilha original composta para a minissérie *Confissões de um Padre* do Canal **Assustado**.  
+- Trilha original composta para a minissérie *Confissões de um Padre* do Canal **Assustado**.  
 
 [![Trilha de Abertura – Confissões de um Padre](https://img.youtube.com/vi/bxaw676dw2I/hqdefault.jpg)](https://www.youtube.com/watch?v=bxaw676dw2I)
 
@@ -71,7 +73,7 @@ Trilha original composta para a minissérie *Confissões de um Padre* do Canal *
 
 # 🎼 Doce Aventura – Felipe Oliveira  
 
-🌿 *Uma composição autoral que visa conectar-nos com a natureza através dos sons de instrumentos épicos.*  
+- 🌿 *Uma composição autoral que visa conectar-nos com a natureza através dos sons de instrumentos épicos.*  
 
 [![Doce Aventura – Felipe Oliveira](https://img.youtube.com/vi/5tV-9254LE8/hqdefault.jpg)](https://www.youtube.com/watch?v=5tV-9254LE8)
 
@@ -100,7 +102,7 @@ Há 16 anos sou diretor musical da Paixão de Cristo de Barueri, um projeto gran
 
 Também faço parte do cenário musical paulista, acompanhando bandas e artistas de MPB, Pop Rock e Classic Rock na noite paulistana, levando entretenimento e qualidade musical para alegrar o público. Ser eclético e ter um bom gosto musical me torna um profissional requisitado para apresentações ao vivo e trabalhos de estúdio.
 
-Além disso, tenho uma forte atuação em projetos sociais, como a composição do hino da ONG Rainha da Paz, em parceria com Márcia Bortolanza. A organização, que auxilia centenas de crianças, encontrou em minha música uma forma de representar e fortalecer sua missão.
+Além disso, tenho uma forte atuação em projetos sociais, como a composição do hino da ONG Rainha da Paz, em parceria com Márcia Bortolanza. A organização, que auxilia centenas de crianças na cidade de Santana de Parnaíba, encontrou em minha música uma forma de representar e fortalecer sua missão.
 
 Sou apaixonado pelo universo sonoro e tenho grande interesse em neurociência da música e cognição auditiva, aprofundando meus estudos para compreender o impacto do som na percepção humana. Busco constantemente expandir minha atuação no setor audiovisual, participando de festivais e investindo em novas oportunidades no cinema como compositor e sonoplasta.
 
