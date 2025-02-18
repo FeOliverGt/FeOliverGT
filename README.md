@@ -28,6 +28,23 @@ Esse sistema cria possibilidades na imersão do áudio com a jogabilidade do jog
 
 [![Maré: A Jornada dos Ciclos](https://img.youtube.com/vi/XBAT0XvJ-LY/hqdefault.jpg)](https://www.youtube.com/watch?v=XBAT0XvJ-LY&t=129s)  
 
+
+# 🎮 Placeholder Redesigner - Jogo Avengard  
+
+🔊 *SFX original criado para aprimorar a imersão sonora no jogo Avengard.*  
+
+[![Placeholder Redesigner - Jogo Avengard](https://img.youtube.com/vi/KLf_e_7Pc4w/hqdefault.jpg)](https://youtu.be/KLf_e_7Pc4w?si=WIPmEJ7pZQzXDoZh)
+
+
+
+# 📜 Certificação - Músicas e Efeitos Sonoros para Jogos | GAA Academy, onde desenvolvi os efeitos sonoros e a trilha da amostra do jogo "Game áudio explorer"  
+
+🎮 *Certificação obtida no curso de formação em trilhas sonoras e SFX para games na GAA Academy.*  
+
+[![Certificação - GAA Academy](https://img.youtube.com/vi/-gjGF9Nwcx0/hqdefault.jpg)](https://youtu.be/-gjGF9Nwcx0?si=XqmMuwWxTgLVsK9k)
+
+
+
 ### 🎤 **Produção Musical**  
 **Música:** Lies – Artista independente Worta  
 - Produção musical completa, desde arranjos até a mixagem final.  
